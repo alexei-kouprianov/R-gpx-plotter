@@ -1,3 +1,5 @@
+# R-gpx-plotter: A simple tool to add points to a static Google map
+
 ## Preamble
 
 The scripts were originally designed to help mapping [my iNaturalist observations](https://www.inaturalist.org/people/alexei_kouprianov). My DSLR camera lacks a buil-in GPS module and the external GPS module I used was broken (and failed all too often when it was still alive). I record points with GPX-tracker app on my iPhone, then send the resulting GPX file to my e-mail and use it with the these scripts to produce a map of observations, which can be used to manually set the point coordinates when uploading observations to iNaturalist platform.
