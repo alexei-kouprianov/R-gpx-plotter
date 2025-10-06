@@ -8,9 +8,9 @@ It is recommended to run the scripts from the `scripts` folder, keep your Google
 
     Rscript GPX.main.r ../data/filename.gpx size maptype
 
-- size (mandatory) : one- or two-digit integer, the greater the value, the bigger is the magnification; recommended value for a small excursion is 15; watch the textual output to the console: if the script reports dropping some data points, then the size (magnification) is too big, consider diminishing size or splitting the GPX data file into smaller parts.
+- `size` (mandatory) : one- or two-digit integer, the greater the value, the bigger is the magnification; recommended value for a small excursion is 15; watch the textual output to the console: if the script reports dropping some data points, then the size (magnification) is too big, consider diminishing size or splitting the GPX data file into smaller parts.
 
-- maptype (optional): supported map types : `satellite`, `roadmap`, `hybrid` (defaults to `hybrid` when no map type is provided).
+- `maptype` (optional): supported map types : `satellite`, `roadmap`, `hybrid` (defaults to `hybrid` when no map type is provided).
 
 ## Example command line
 
