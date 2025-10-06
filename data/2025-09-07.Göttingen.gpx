@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Open GPX Tracker for iOS">
+	<wpt lat="51.53521835808818" lon="9.928161548459835">
+		<ele>144.94979483634233</ele>
+		<time>2025-09-07T13:24:26Z</time>
+		<name>15:24:26</name>
+		<desc><![CDATA[7 сент. 2025 г., 15:24:26]]></desc>
+	</wpt>
+	<wpt lat="51.54069755305656" lon="9.935884248964353">
+		<ele>147.7185935974121</ele>
+		<time>2025-09-07T14:04:09Z</time>
+		<name>16:04:09</name>
+		<desc><![CDATA[7 сент. 2025 г., 16:04:09]]></desc>
+	</wpt>
+	<wpt lat="51.54071678785872" lon="9.935892000238482">
+		<ele>146.9460105895996</ele>
+		<time>2025-09-07T14:04:11Z</time>
+		<name>16:04:11</name>
+		<desc><![CDATA[7 сент. 2025 г., 16:04:11]]></desc>
+	</wpt>
+	<wpt lat="51.540733955010474" lon="9.935903020045131">
+		<ele>147.2084617614746</ele>
+		<time>2025-09-07T14:04:26Z</time>
+		<name>16:04:26</name>
+		<desc><![CDATA[7 сент. 2025 г., 16:04:26]]></desc>
+	</wpt>
+	<wpt lat="51.54077865542438" lon="9.935818262713708">
+		<ele>157.30019760131836</ele>
+		<time>2025-09-07T14:07:43Z</time>
+		<name>16:07:43</name>
+		<desc><![CDATA[7 сент. 2025 г., 16:07:43]]></desc>
+	</wpt>
+	<wpt lat="51.54081208654659" lon="9.935732840595591">
+		<ele>158.17123038414866</ele>
+		<time>2025-09-07T14:22:34Z</time>
+		<name>16:22:34</name>
+		<desc><![CDATA[7 сент. 2025 г., 16:22:34]]></desc>
+	</wpt>
+	<wpt lat="51.53773364150142" lon="9.935463359588699">
+		<ele>147.8150292094797</ele>
+		<time>2025-09-07T15:03:31Z</time>
+		<name>17:03:31</name>
+		<desc><![CDATA[7 сент. 2025 г., 17:03:31]]></desc>
+	</wpt>
+	<wpt lat="51.53768882988658" lon="9.938260733624167">
+		<ele>156.9617576599121</ele>
+		<time>2025-09-07T16:28:26Z</time>
+		<name>18:28:26</name>
+		<desc><![CDATA[7 сент. 2025 г., 18:28:26]]></desc>
+	</wpt>
+	<wpt lat="51.537341440419326" lon="9.939042542066629">
+		<ele>155.7795066833496</ele>
+		<time>2025-09-07T17:06:00Z</time>
+		<name>19:06:00</name>
+		<desc><![CDATA[7 сент. 2025 г., 19:06:00]]></desc>
+	</wpt>
+	<wpt lat="51.53470987815423" lon="9.927648140243711">
+		<ele>148.3689842224121</ele>
+		<time>2025-09-07T18:04:00Z</time>
+		<name>20:04:00</name>
+		<desc><![CDATA[7 сент. 2025 г., 20:04:00]]></desc>
+	</wpt>
+	<trk>
+		<trkseg>
+		</trkseg>
+	</trk>
+</gpx>

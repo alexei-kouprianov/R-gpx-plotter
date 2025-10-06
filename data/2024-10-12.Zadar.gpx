@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Open GPX Tracker for iOS">
+	<wpt lat="44.11252326962893" lon="15.228920793660713">
+		<ele>10.237149927765131</ele>
+		<time>2024-10-12T16:05:25Z</time>
+		<name>18:05:25</name>
+		<desc><![CDATA[12 окт. 2024 г., 18:05:25]]></desc>
+	</wpt>
+	<wpt lat="44.11317682238298" lon="15.227175789513879">
+		<ele>-6.886630941182375</ele>
+		<time>2024-10-12T16:37:38Z</time>
+		<name>18:37:38</name>
+		<desc><![CDATA[12 окт. 2024 г., 18:37:38]]></desc>
+	</wpt>
+	<wpt lat="44.114205667908735" lon="15.22619690376274">
+		<ele>14.952297328040004</ele>
+		<time>2024-10-12T18:38:43Z</time>
+		<name>20:38:43</name>
+		<desc><![CDATA[12 окт. 2024 г., 20:38:43]]></desc>
+	</wpt>
+	<wpt lat="44.114904888015346" lon="15.22513006815242">
+		<ele>6.803920745849609</ele>
+		<time>2024-10-12T18:47:02Z</time>
+		<name>20:47:02</name>
+		<desc><![CDATA[12 окт. 2024 г., 20:47:02]]></desc>
+	</wpt>
+	<wpt lat="44.11542867314477" lon="15.224485164522402">
+		<ele>8.01211170759052</ele>
+		<time>2024-10-12T18:51:45Z</time>
+		<name>20:51:45</name>
+		<desc><![CDATA[12 окт. 2024 г., 20:51:45]]></desc>
+	</wpt>
+	<wpt lat="44.11617269277956" lon="15.226211082204456">
+		<ele>10.68453598022461</ele>
+		<time>2024-10-12T18:58:08Z</time>
+		<name>20:58:08</name>
+		<desc><![CDATA[12 окт. 2024 г., 20:58:08]]></desc>
+	</wpt>
+	<wpt lat="44.11603761840995" lon="15.226222146316642">
+		<ele>9.02523422241211</ele>
+		<time>2024-10-12T19:02:25Z</time>
+		<name>21:02:25</name>
+		<desc><![CDATA[12 окт. 2024 г., 21:02:25]]></desc>
+	</wpt>
+	<wpt lat="44.11242807753767" lon="15.228873007013675">
+		<ele>10.23165512084961</ele>
+		<time>2024-10-12T19:20:59Z</time>
+		<name>21:20:59</name>
+		<desc><![CDATA[12 окт. 2024 г., 21:20:59]]></desc>
+	</wpt>
+	<wpt lat="44.11213770824116" lon="15.229083386259347">
+		<ele>9.361820291727781</ele>
+		<time>2024-10-12T19:37:20Z</time>
+		<name>21:37:20</name>
+		<desc><![CDATA[12 окт. 2024 г., 21:37:20]]></desc>
+	</wpt>
+	<wpt lat="44.11219024103541" lon="15.229143491029017">
+		<ele>9.840602919459343</ele>
+		<time>2024-10-12T19:41:09Z</time>
+		<name>21:41:09</name>
+		<desc><![CDATA[12 окт. 2024 г., 21:41:09]]></desc>
+	</wpt>
+	<wpt lat="44.11225629043241" lon="15.229242732762573">
+		<ele>10.231288952752948</ele>
+		<time>2024-10-12T19:50:27Z</time>
+		<name>21:50:27</name>
+		<desc><![CDATA[12 окт. 2024 г., 21:50:27]]></desc>
+	</wpt>
+	<trk>
+		<trkseg>
+		</trkseg>
+	</trk>
+</gpx>

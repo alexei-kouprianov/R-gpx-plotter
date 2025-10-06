@@ -1,0 +1,5 @@
+library(rgdal)
+library(sf)
+library(ggmap)
+library(ggplot2)
+library(shadowtext)
