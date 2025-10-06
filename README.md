@@ -18,4 +18,4 @@ It is recommended to run the scripts from the `scripts` folder, keep your Google
 
 ## Example map
 
-![Zadar, hybrid](../plots/2024-10-12.Zadar.hybrid.png)
+![Zadar, hybrid](plots/2024-10-12.Zadar.hybrid.png)
