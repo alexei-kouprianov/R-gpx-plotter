@@ -12,7 +12,7 @@ gpxfilename_full <- args[1]  # First argument: filename with path (character)
 zoom <- as.integer(args[2])  # Second argument: 1 to 2 digit number (integer)
 maptype <- args[3]           # Third argument: map type (character)
 
-# Load Google Maps API key with env/.env/txt fallbacks;
+# Load Google Maps API key with .env file
 # 1) Try environment variable
 googleMapsAPIKey <- Sys.getenv("GOOGLE_MAPS_API_KEY", unset = "")
 
