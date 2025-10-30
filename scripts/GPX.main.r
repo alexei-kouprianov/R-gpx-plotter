@@ -26,23 +26,11 @@ if(nchar(googleMapsAPIKey) == 0 && file.exists("../.env")){
     }
 }
 
-# 3) Fallback to legacy text file in misc/
-if(nchar(googleMapsAPIKey) == 0 && file.exists("../misc/google_maps_API_key.txt")){
-    key_candidate <- suppressWarnings(readLines("../misc/google_maps_API_key.txt", warn = FALSE, n = 1))
-    if(length(key_candidate) == 1){
-        key_candidate <- trimws(key_candidate)
-        if(nchar(key_candidate) > 0 && !grepl("^#", key_candidate)){
-            googleMapsAPIKey <- key_candidate
-        }
-    }
-}
-
-# 4) Stop if still missing
+# 3) Stop if still missing
 if(nchar(googleMapsAPIKey) == 0){
     stop(paste0(
         "Google Maps API key not found. Set env var GOOGLE_MAPS_API_KEY, ",
-        "or add it to ../.env (GOOGLE_MAPS_API_KEY=...), ",
-        "or place it on the first line of ../misc/google_maps_API_key.txt"
+        "or add it to ../.env (GOOGLE_MAPS_API_KEY=...)"
     ))
     flush.console()
 }
