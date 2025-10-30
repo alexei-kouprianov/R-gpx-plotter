@@ -1,10 +1,10 @@
 # Requirecs:
 # source("GPX.libraries.r")
 
-wp <- readOGR(gpxfilename_full, layer = "waypoints")
+wp <- st_read(gpxfilename_full, layer = "waypoints")
 
-coords <- coordinates(wp)
-time <- wp@data$time
+coords <- st_coordinates(wp)
+time <- wp$time
 df <- data.frame(
   lon = coords[, 1],  # Longitude
   lat = coords[, 2],  # Latitude
